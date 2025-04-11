@@ -37,6 +37,13 @@ This project presents an end-to-end financial analysis of credit card customers 
 - `Credit Card Financial Dashboard - Customer.pdf`
 - `Credit Card Financial Dashboard - Transaction.pdf`
 
+## 🖥️ Interactive Dashboard
+
+To explore the full interactive dashboard with slicers, drill-downs, and cross-filtering capabilities, open the `.pbix` file in Power BI Desktop:
+
+🔹 **File:** `Credit_card_report.pbix` 
+
+
 ## 🚀 Future Enhancements
 
 - Integration with RLS (Row-Level Security) for user-specific reporting.
